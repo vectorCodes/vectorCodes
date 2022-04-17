@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vectorCodes
 - 👀 I’m interested in WebDev 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently FullStack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hassanansari571@gmail.com
 
